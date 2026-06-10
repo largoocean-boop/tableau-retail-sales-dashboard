@@ -1,2 +1,3 @@
-# tableau-retail-sales-dashboard
-Tableau dashboard analyzing retail sales performance by category and region.
+Dataset: train.csv
+Tool: Tableau Public
+Project: Retail Sales Analytics Dashboard
