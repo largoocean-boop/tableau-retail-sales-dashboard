@@ -17,5 +17,5 @@ Tableau dashboard analyzing retail sales performance by category and region.
 - Sales by Region
 
 ## Files
-- `train.csv` - dataset
+- train.xlsx.` - dataset
 - Dashboard screenshot
